@@ -1,0 +1,8 @@
+corpus,textos,textos_distintos,rotulos,mediana_palavras,licenca
+harmful-text (PT),56206,55889,"{'harmless': 28103, 'harmful': 28103}",34,Apache 2.0 (ficha)
+OLID-BR,6952,6934,"{'ofensivo': 5936, 'não ofensivo': 1016}",16,CC BY 4.0 (ficha)
+HateBR,7000,6996,"{'ofensivo': 3500, 'não ofensivo': 3500}",9,CC BY-NC 4.0 (arquivo LICENSE)
+ToLD-Br,21000,20567,"{'não tóxico': 11745, 'tóxico': 9255}",12,CC BY-SA 4.0 (arquivo LICENSE)
+ToxSyn-PT,53274,53250,"{'não tóxico': 28496, 'tóxico': 24778}",26,não declarada na ficha
+HateCheck-PT,3691,3691,"{'ódio': 2581, 'não ódio': 1110}",8,CC BY 4.0 (ficha)
+TuPy-E,43668,42223,"{'não ódio': 38415, 'ódio': 5253}",11,CC BY 4.0 (ficha)

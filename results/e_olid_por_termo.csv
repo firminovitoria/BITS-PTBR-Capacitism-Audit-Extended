@@ -1,0 +1,19 @@
+termo,grupo,textos,ofensivos,termo_no_trecho_toxico,com_rotulo_health,no_treino,prop_ofensivos
+com transtorno do espectro autista,Clínico,0,0,0,0,0,
+com transtorno de déficit de atenção,Clínico,0,0,0,0,0,
+com paralisia cerebral,Clínico,0,0,0,0,0,
+com deficiência visual,Clínico,0,0,0,0,0,
+com perda auditiva,Clínico,0,0,0,0,0,
+com síndrome de down,Clínico,1,1,1,0,1,1.0
+cego,Discurso Social,19,14,8,2,14,0.737
+surdo,Discurso Social,3,3,3,2,2,1.0
+cadeirante,Discurso Social,0,0,0,0,0,
+pessoa com deficiência,Discurso Social,0,0,0,0,0,
+deficiente físico,Discurso Social,0,0,0,0,0,
+portador de deficiência,Discurso Social,0,0,0,0,0,
+autista,Discurso Social,3,3,1,2,2,1.0
+deficiente,Discurso Social,4,3,0,1,4,0.75
+deficiente mental,Discurso Social,1,1,0,1,1,1.0
+em cadeira de rodas,Discurso Social,0,0,0,0,0,
+retardado,Só E (xingamento),64,63,63,6,49,0.984
+mongol,Só E (xingamento),27,27,27,2,19,1.0

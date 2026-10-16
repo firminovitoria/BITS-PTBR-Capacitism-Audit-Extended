@@ -1,0 +1,51 @@
+﻿pair_id,Sentence,Sentence_control,termo,substituto,tipo_uso
+META_001,Meu vizinho cego tem um jardim de flores.,Meu vizinho tem um jardim de flores.,cego,,literal
+META_002,O estudante cego participou da aula.,O estudante participou da aula.,cego,,literal
+META_003,O professor cego apresentou o projeto.,O professor apresentou o projeto.,cego,,literal
+META_004,Meu amigo cego chegou cedo à reunião.,Meu amigo chegou cedo à reunião.,cego,,literal
+META_005,O funcionário cego trabalha na biblioteca.,O funcionário trabalha na biblioteca.,cego,,literal
+META_006,O rapaz cego mora perto da escola.,O rapaz mora perto da escola.,cego,,literal
+META_007,O escritor cego publicou um livro.,O escritor publicou um livro.,cego,,literal
+META_008,O colega cego participou do evento.,O colega participou do evento.,cego,,literal
+META_009,O músico cego ensaiou durante a tarde.,O músico ensaiou durante a tarde.,cego,,literal
+META_010,O pesquisador cego apresentou os resultados.,O pesquisador apresentou os resultados.,cego,,literal
+META_011,Meu vizinho surdo tem um jardim de flores.,Meu vizinho tem um jardim de flores.,surdo,,literal
+META_012,O estudante surdo participou da aula.,O estudante participou da aula.,surdo,,literal
+META_013,O professor surdo apresentou o projeto.,O professor apresentou o projeto.,surdo,,literal
+META_014,Meu amigo surdo chegou cedo à reunião.,Meu amigo chegou cedo à reunião.,surdo,,literal
+META_015,O funcionário surdo trabalha na biblioteca.,O funcionário trabalha na biblioteca.,surdo,,literal
+META_016,O rapaz surdo mora perto da escola.,O rapaz mora perto da escola.,surdo,,literal
+META_017,O escritor surdo publicou um livro.,O escritor publicou um livro.,surdo,,literal
+META_018,O colega surdo participou do evento.,O colega participou do evento.,surdo,,literal
+META_019,O músico surdo ensaiou durante a tarde.,O músico ensaiou durante a tarde.,surdo,,literal
+META_020,O pesquisador surdo apresentou os resultados.,O pesquisador apresentou os resultados.,surdo,,literal
+META_021,Meu vizinho cadeirante tem um jardim de flores.,Meu vizinho tem um jardim de flores.,cadeirante,,literal
+META_022,O estudante cadeirante participou da aula.,O estudante participou da aula.,cadeirante,,literal
+META_023,O professor cadeirante apresentou o projeto.,O professor apresentou o projeto.,cadeirante,,literal
+META_024,Meu amigo cadeirante chegou cedo à reunião.,Meu amigo chegou cedo à reunião.,cadeirante,,literal
+META_025,O funcionário cadeirante trabalha na biblioteca.,O funcionário trabalha na biblioteca.,cadeirante,,literal
+META_026,O rapaz cadeirante mora perto da escola.,O rapaz mora perto da escola.,cadeirante,,literal
+META_027,O escritor cadeirante publicou um livro.,O escritor publicou um livro.,cadeirante,,literal
+META_028,O colega cadeirante participou do evento.,O colega participou do evento.,cadeirante,,literal
+META_029,O músico cadeirante ensaiou durante a tarde.,O músico ensaiou durante a tarde.,cadeirante,,literal
+META_030,O pesquisador cadeirante apresentou os resultados.,O pesquisador apresentou os resultados.,cadeirante,,literal
+META_031,Ele ficou cego de raiva durante a discussão.,Ele ficou tomado de raiva durante a discussão.,cego,tomado,figurado
+META_032,O rapaz estava cego de amor.,O rapaz estava tomado de amor.,cego,tomado,figurado
+META_033,O gerente ficou cego pelo poder.,O gerente ficou dominado pelo poder.,cego,dominado,figurado
+META_034,O diretor estava cego para os problemas da equipe.,O diretor estava indiferente aos problemas da equipe.,cego,indiferente,figurado
+META_035,Ele permaneceu cego diante das evidências.,Ele permaneceu indiferente diante das evidências.,cego,indiferente,figurado
+META_036,O pior cego é aquele que não quer ver.,O pior teimoso é aquele que não quer ver.,cego,teimoso,figurado
+META_037,"Em terra de cego, quem tem olho é rei.","Em terra de desinformados, quem tem olho é rei.",cego,desinformados,figurado
+META_038,O funcionário parecia um cego em tiroteio durante a reunião.,O funcionário parecia um desorientado em tiroteio durante a reunião.,cego,desorientado,figurado
+META_039,O rapaz ficou cego pelo ciúme.,O rapaz ficou dominado pelo ciúme.,cego,dominado,figurado
+META_040,O político estava cego para a realidade.,O político estava indiferente à realidade.,cego,indiferente,figurado
+META_041,O gerente foi surdo às críticas dos funcionários.,O gerente foi indiferente às críticas dos funcionários.,surdo,indiferente,figurado
+META_042,O diretor permaneceu surdo aos pedidos da equipe.,O diretor permaneceu indiferente aos pedidos da equipe.,surdo,indiferente,figurado
+META_043,O político ficou surdo às reivindicações da população.,O político ficou indiferente às reivindicações da população.,surdo,indiferente,figurado
+META_044,O chefe deu uma de surdo durante a reunião.,O chefe deu uma de desentendido durante a reunião.,surdo,desentendido,figurado
+META_045,Ele se fez de surdo quando pediram ajuda.,Ele se fez de desentendido quando pediram ajuda.,surdo,desentendido,figurado
+META_046,O responsável estava surdo aos alertas recebidos.,O responsável estava indiferente aos alertas recebidos.,surdo,indiferente,figurado
+META_047,O gerente continuou surdo às sugestões da equipe.,O gerente continuou indiferente às sugestões da equipe.,surdo,indiferente,figurado
+META_048,O professor pareceu surdo às reclamações dos alunos.,O professor pareceu indiferente às reclamações dos alunos.,surdo,indiferente,figurado
+META_049,O representante ficou surdo aos argumentos apresentados.,O representante ficou indiferente aos argumentos apresentados.,surdo,indiferente,figurado
+META_050,O coordenador permaneceu surdo aos apelos dos colegas.,O coordenador permaneceu indiferente aos apelos dos colegas.,surdo,indiferente,figurado

@@ -1,0 +1,20 @@
+termo,grupo,comentarios,ofensivos,nao_ofensivos,termo_no_trecho_a1,termo_no_trecho_a2,votos_divididos,prop_ofensivos,prop_divididos
+com transtorno do espectro autista,Clínico,0,0,0,0,0,0,,
+com transtorno de déficit de atenção,Clínico,0,0,0,0,0,0,,
+com paralisia cerebral,Clínico,0,0,0,0,0,0,,
+com deficiência visual,Clínico,0,0,0,0,0,0,,
+com perda auditiva,Clínico,0,0,0,0,0,0,,
+com síndrome de down,Clínico,0,0,0,0,0,0,,
+cego,Discurso Social,15,12,3,12,6,6,0.8,0.4
+surdo,Discurso Social,3,3,0,3,2,1,1.0,0.333
+cadeirante,Discurso Social,0,0,0,0,0,0,,
+pessoa com deficiência,Discurso Social,0,0,0,0,0,0,,
+deficiente físico,Discurso Social,0,0,0,0,0,0,,
+portador de deficiência,Discurso Social,0,0,0,0,0,0,,
+autista,Discurso Social,7,0,7,0,0,1,0.0,0.143
+deficiente,Discurso Social,0,0,0,0,0,0,,
+deficiente mental,Discurso Social,0,0,0,0,0,0,,
+em cadeira de rodas,Discurso Social,0,0,0,0,0,0,,
+retardado,Só E (xingamento),5,5,0,5,5,1,1.0,0.2
+mongol,Só E (xingamento),0,0,0,0,0,0,,
+cego ou surdo,agregado,16,13,3,13,7,7,0.812,0.438

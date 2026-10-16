@@ -1,0 +1,7 @@
+corpus,termo,rotulo,ambíguo,figurado
+HateBR,cego,não ofensivo,0,3
+HateBR,cego,ofensivo,2,10
+HateBR,surdo,ofensivo,0,3
+OLID-BR,cego,não ofensivo,2,3
+OLID-BR,cego,ofensivo,2,12
+OLID-BR,surdo,ofensivo,2,1

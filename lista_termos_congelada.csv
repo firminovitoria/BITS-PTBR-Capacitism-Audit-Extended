@@ -1,0 +1,19 @@
+termo,subclass_v1,grupo,padrao_busca,entra_no_v2,subconjunto_metaforico,data_congelamento
+com transtorno do espectro autista,com Transtorno do Espectro Autista,Clínico,transtorno do espectro autista,sim,não,2026-10-12
+com transtorno de déficit de atenção,com Transtorno de Déficit de Atenção,Clínico,deficit de atencao|\btdah\b,sim,não,2026-10-12
+com paralisia cerebral,com Paralisia Cerebral,Clínico,paralisia cerebral,sim,não,2026-10-12
+com deficiência visual,com Deficiência Visual,Clínico,deficiencia visual,sim,não,2026-10-12
+com perda auditiva,com Perda Auditiva,Clínico,perda auditiva|deficiencia auditiva,sim,não,2026-10-12
+com síndrome de down,com Síndrome de Down,Clínico,sindrome de down,sim,não,2026-10-12
+cego,cego,Discurso Social,\bceg[oa]s?\b,sim,literal e figurado,2026-10-12
+surdo,surdo,Discurso Social,\bsurd[oa]s?\b,sim,literal e figurado,2026-10-12
+cadeirante,cadeirante,Discurso Social,\bcadeirantes?\b,sim,só literal,2026-10-12
+pessoa com deficiência,pessoa com deficiência,Discurso Social,pessoas? com deficiencia,sim,não,2026-10-12
+deficiente físico,deficiente físico,Discurso Social,deficientes? fisic[oa]s?,sim,não,2026-10-12
+portador de deficiência,portador de deficiência,Discurso Social,portador(?:a|es|as)? de deficiencia,sim,não,2026-10-12
+autista,,Discurso Social,\bautistas?\b,a confirmar com a Janaina,não,2026-10-12
+deficiente,,Discurso Social,\bdeficientes?\b,a confirmar com a Janaina,não,2026-10-12
+deficiente mental,,Discurso Social,deficientes? menta(?:l|is),a confirmar com a Janaina,não,2026-10-12
+em cadeira de rodas,,Discurso Social,cadeiras? de rodas,a confirmar com a Janaina,não,2026-10-12
+retardado,,Só E (xingamento),\bretardad[oa]s?\b,não,não,2026-10-12
+mongol,,Só E (xingamento),\bmongol(?:oide)?s?\b,não,não,2026-10-12

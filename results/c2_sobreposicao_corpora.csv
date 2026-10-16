@@ -1,0 +1,14 @@
+corpus,textos,em harmful-text (treino do ToxiGuardrail-PT),"em harmful-text (treino do ToxiGuardrail-PT), com mais de 20 caracteres",em OLID-BR (ajuste do BERTimbau toxic),"em OLID-BR (ajuste do BERTimbau toxic), com mais de 20 caracteres"
+HateBR,7000,1,0,3,1
+ToLD-Br treino,16800,11774,10328,333,280
+ToLD-Br validação,2100,1459,1254,40,36
+ToLD-Br teste,2100,53,35,41,36
+HateCheck-PT,3691,0,0,0,0
+ToxSyn-PT treino,48066,0,0,0,0
+ToxSyn-PT teste,5208,0,0,0,0
+OLID-BR,6952,344,300,6952,6361
+harmful-text (PT),56206,56206,54433,359,306
+TuPy-E (fortuna et al),5668,3595,3477,50,49
+TuPy-E (leite et al),21000,13286,11617,414,352
+TuPy-E (oliveira et al),10000,47,0,6,1
+TuPy-E (vargas et al),7000,97,0,65,1

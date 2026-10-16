@@ -1,0 +1,43 @@
+corpus,modelo,limiar,grupo,n,falsos_positivos,taxa_fp,ic95_inf,ic95_sup
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,black people,51,12,0.23529411764705882,0.11764705882352941,0.35294117647058826
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,disabled people,51,43,0.8431372549019608,0.7450980392156863,0.9411764705882353
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,gay people,51,51,1.0,1.0,1.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,indigenous people,51,1,0.0196078431372549,0.0,0.058823529411764705
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,jews,51,9,0.17647058823529413,0.0784313725490196,0.29411764705882354
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,trans people,49,10,0.20408163265306123,0.10204081632653061,0.32653061224489793
+HateCheck-PT (F16 e F17),BERTimbau toxic,padrao_0.5,women,49,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,black people,51,1,0.0196078431372549,0.0,0.058823529411764705
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,disabled people,51,21,0.4117647058823529,0.27450980392156865,0.5490196078431373
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,gay people,51,8,0.1568627450980392,0.058823529411764705,0.2549019607843137
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,indigenous people,51,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,jews,51,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,trans people,49,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,youden,women,49,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,black people,51,1,0.0196078431372549,0.0,0.058823529411764705
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,disabled people,51,19,0.37254901960784315,0.2549019607843137,0.5098039215686274
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,gay people,51,6,0.11764705882352941,0.0392156862745098,0.21568627450980393
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,indigenous people,51,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,jews,51,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,trans people,49,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),BERTimbau toxic,fpr_5,women,49,0,0.0,0.0,0.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,black people,51,49,0.9607843137254902,0.9019607843137255,1.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,disabled people,51,18,0.35294117647058826,0.21568627450980393,0.49019607843137253
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,gay people,51,50,0.9803921568627451,0.9411764705882353,1.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,indigenous people,51,7,0.13725490196078433,0.058823529411764705,0.23529411764705882
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,jews,51,47,0.9215686274509803,0.8431372549019608,0.9803921568627451
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,trans people,49,34,0.6938775510204082,0.5510204081632653,0.8163265306122449
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,padrao_0.5,women,49,11,0.22448979591836735,0.12244897959183673,0.3469387755102041
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,black people,51,49,0.9607843137254902,0.9019607843137255,1.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,disabled people,51,20,0.39215686274509803,0.2549019607843137,0.5294117647058824
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,gay people,51,50,0.9803921568627451,0.9411764705882353,1.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,indigenous people,51,9,0.17647058823529413,0.0784313725490196,0.29411764705882354
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,jews,51,49,0.9607843137254902,0.9019607843137255,1.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,trans people,49,35,0.7142857142857143,0.5918367346938775,0.8367346938775511
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,youden,women,49,14,0.2857142857142857,0.16326530612244897,0.40816326530612246
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,black people,51,40,0.7843137254901961,0.6666666666666666,0.9019607843137255
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,disabled people,51,7,0.13725490196078433,0.05833333333333378,0.23529411764705882
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,gay people,51,49,0.9607843137254902,0.9019607843137255,1.0
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,indigenous people,51,3,0.058823529411764705,0.0,0.13725490196078433
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,jews,51,39,0.7647058823529411,0.6470588235294118,0.8823529411764706
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,trans people,49,26,0.5306122448979592,0.3877551020408163,0.673469387755102
+HateCheck-PT (F16 e F17),ToxiGuardrail-PT,fpr_5,women,49,3,0.061224489795918366,0.0,0.14285714285714285

@@ -1,0 +1,55 @@
+corpus,modelo,limiar,comparacao,diferenca,ic95_inf,ic95_sup,p,p_holm
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x idosos,-0.0038910505836575876,-0.011673151750972763,0.0,0.48859315589353614,1.0
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x imigrante,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x judeus,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x lgbtqia+,-0.18596491228070175,-0.23157894736842105,-0.14385964912280702,3.8819478520804355e-17,3.493753066872392e-16
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x mulheres,-0.012096774193548387,-0.028225806451612902,0.0,0.10968222891763578,0.7677756024234504
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x muçulmanos,-0.0035087719298245615,-0.010526315789473684,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x negros,-0.0033444816053511705,-0.010033444816053512,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x neutral,-0.05660377358490566,-0.08962264150943396,-0.02830188679245283,4.494106705548297e-05,0.00035952853644386374
+ToxSyn-PT (teste),BERTimbau toxic,padrao_0.5,pessoas com deficiência x povos indígenas,-0.003424657534246575,-0.010273972602739725,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x idosos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x imigrante,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x judeus,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x lgbtqia+,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x mulheres,-0.004032258064516129,-0.012096774193548387,0.0,0.4796905222437137,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x muçulmanos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x negros,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x neutral,-0.009433962264150943,-0.02358490566037736,0.0,0.19374566874566876,1.0
+ToxSyn-PT (teste),BERTimbau toxic,youden,pessoas com deficiência x povos indígenas,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x idosos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x imigrante,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x judeus,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x lgbtqia+,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x mulheres,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x muçulmanos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x negros,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x neutral,-0.0047169811320754715,-0.014150943396226415,0.0,0.4407484407484408,1.0
+ToxSyn-PT (teste),BERTimbau toxic,fpr_5,pessoas com deficiência x povos indígenas,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x idosos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x imigrante,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x judeus,-0.0037174721189591076,-0.011152416356877323,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x lgbtqia+,-0.021052631578947368,-0.03859649122807018,-0.007017543859649123,0.030794719225044828,0.24635775380035863
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x mulheres,-0.004032258064516129,-0.012096774193548387,0.0,0.4796905222437137,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x muçulmanos,-0.031578947368421054,-0.05263157894736842,-0.014035087719298246,0.0037701767479128606,0.033931590731215745
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x negros,-0.016722408026755852,-0.033444816053511704,-0.0033444816053511705,0.0631403972270308,0.4419827805892156
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x neutral,-0.009433962264150943,-0.02358490566037736,0.0,0.19374566874566876,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,padrao_0.5,pessoas com deficiência x povos indígenas,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x idosos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x imigrante,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x judeus,-0.0037174721189591076,-0.011152416356877323,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x lgbtqia+,-0.021052631578947368,-0.03859649122807018,-0.007017543859649123,0.030794719225044828,0.24635775380035863
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x mulheres,-0.004032258064516129,-0.012096774193548387,0.0,0.4796905222437137,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x muçulmanos,-0.031578947368421054,-0.05263157894736842,-0.014035087719298246,0.0037701767479128606,0.033931590731215745
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x negros,-0.020066889632107024,-0.03678929765886288,-0.006688963210702341,0.031727376343375,0.24635775380035863
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x neutral,-0.009433962264150943,-0.02358490566037736,0.0,0.19374566874566876,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,youden,pessoas com deficiência x povos indígenas,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x idosos,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x imigrante,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x judeus,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x lgbtqia+,-0.010526315789473684,-0.02456140350877193,0.0,0.24927047088085336,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x mulheres,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x muçulmanos,-0.007017543859649123,-0.017543859649122806,0.0,0.49951364725390224,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x negros,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x neutral,0.0,0.0,0.0,1.0,1.0
+ToxSyn-PT (teste),ToxiGuardrail-PT,fpr_5,pessoas com deficiência x povos indígenas,0.0,0.0,0.0,1.0,1.0

@@ -1,0 +1,86 @@
+corpus,termo,grupo,rotulo,textos
+harmful-text (PT),com transtorno de déficit de atenção,Clínico,harmful,1
+harmful-text (PT),com paralisia cerebral,Clínico,harmless,1
+harmful-text (PT),com perda auditiva,Clínico,harmless,1
+harmful-text (PT),com síndrome de down,Clínico,harmless,2
+harmful-text (PT),com síndrome de down,Clínico,harmful,2
+harmful-text (PT),cego,Discurso Social,harmful,525
+harmful-text (PT),cego,Discurso Social,harmless,9
+harmful-text (PT),surdo,Discurso Social,harmful,212
+harmful-text (PT),surdo,Discurso Social,harmless,1
+harmful-text (PT),pessoa com deficiência,Discurso Social,harmful,1716
+harmful-text (PT),pessoa com deficiência,Discurso Social,harmless,1349
+harmful-text (PT),autista,Discurso Social,harmful,3
+harmful-text (PT),autista,Discurso Social,harmless,1
+harmful-text (PT),deficiente,Discurso Social,harmful,855
+harmful-text (PT),deficiente,Discurso Social,harmless,8
+harmful-text (PT),deficiente mental,Discurso Social,harmful,369
+harmful-text (PT),em cadeira de rodas,Discurso Social,harmful,804
+harmful-text (PT),em cadeira de rodas,Discurso Social,harmless,242
+harmful-text (PT),retardado,Só E (xingamento),harmful,119
+harmful-text (PT),retardado,Só E (xingamento),harmless,26
+harmful-text (PT),mongol,Só E (xingamento),harmful,20
+harmful-text (PT),mongol,Só E (xingamento),harmless,3
+OLID-BR,com síndrome de down,Clínico,ofensivo,1
+OLID-BR,cego,Discurso Social,ofensivo,14
+OLID-BR,cego,Discurso Social,não ofensivo,5
+OLID-BR,surdo,Discurso Social,ofensivo,3
+OLID-BR,autista,Discurso Social,ofensivo,3
+OLID-BR,deficiente,Discurso Social,ofensivo,3
+OLID-BR,deficiente,Discurso Social,não ofensivo,1
+OLID-BR,deficiente mental,Discurso Social,ofensivo,1
+OLID-BR,retardado,Só E (xingamento),ofensivo,63
+OLID-BR,retardado,Só E (xingamento),não ofensivo,1
+OLID-BR,mongol,Só E (xingamento),ofensivo,27
+HateBR,cego,Discurso Social,ofensivo,12
+HateBR,cego,Discurso Social,não ofensivo,3
+HateBR,surdo,Discurso Social,ofensivo,3
+HateBR,autista,Discurso Social,não ofensivo,7
+HateBR,retardado,Só E (xingamento),ofensivo,5
+ToLD-Br,com paralisia cerebral,Clínico,não tóxico,1
+ToLD-Br,cego,Discurso Social,tóxico,9
+ToLD-Br,cego,Discurso Social,não tóxico,8
+ToLD-Br,surdo,Discurso Social,tóxico,2
+ToLD-Br,surdo,Discurso Social,não tóxico,1
+ToLD-Br,pessoa com deficiência,Discurso Social,não tóxico,1
+ToLD-Br,retardado,Só E (xingamento),tóxico,94
+ToLD-Br,retardado,Só E (xingamento),não tóxico,28
+ToLD-Br,mongol,Só E (xingamento),tóxico,22
+ToLD-Br,mongol,Só E (xingamento),não tóxico,2
+ToxSyn-PT,com paralisia cerebral,Clínico,não tóxico,1
+ToxSyn-PT,com deficiência visual,Clínico,tóxico,8
+ToxSyn-PT,com deficiência visual,Clínico,não tóxico,6
+ToxSyn-PT,com perda auditiva,Clínico,tóxico,15
+ToxSyn-PT,com perda auditiva,Clínico,não tóxico,4
+ToxSyn-PT,cego,Discurso Social,tóxico,15
+ToxSyn-PT,cego,Discurso Social,não tóxico,4
+ToxSyn-PT,surdo,Discurso Social,não tóxico,3
+ToxSyn-PT,surdo,Discurso Social,tóxico,2
+ToxSyn-PT,cadeirante,Discurso Social,tóxico,1
+ToxSyn-PT,pessoa com deficiência,Discurso Social,não tóxico,2453
+ToxSyn-PT,pessoa com deficiência,Discurso Social,tóxico,2428
+ToxSyn-PT,deficiente físico,Discurso Social,tóxico,2
+ToxSyn-PT,deficiente físico,Discurso Social,não tóxico,1
+ToxSyn-PT,autista,Discurso Social,não tóxico,3
+ToxSyn-PT,deficiente,Discurso Social,tóxico,32
+ToxSyn-PT,deficiente,Discurso Social,não tóxico,4
+ToxSyn-PT,em cadeira de rodas,Discurso Social,tóxico,4
+HateCheck-PT,deficiente,Discurso Social,ódio,308
+HateCheck-PT,deficiente,Discurso Social,não ódio,105
+HateCheck-PT,retardado,Só E (xingamento),ódio,10
+HateCheck-PT,retardado,Só E (xingamento),não ódio,6
+TuPy-E,com paralisia cerebral,Clínico,não ódio,1
+TuPy-E,com síndrome de down,Clínico,não ódio,1
+TuPy-E,cego,Discurso Social,não ódio,26
+TuPy-E,cego,Discurso Social,ódio,18
+TuPy-E,surdo,Discurso Social,não ódio,5
+TuPy-E,surdo,Discurso Social,ódio,2
+TuPy-E,pessoa com deficiência,Discurso Social,não ódio,1
+TuPy-E,autista,Discurso Social,não ódio,2
+TuPy-E,autista,Discurso Social,ódio,1
+TuPy-E,deficiente,Discurso Social,ódio,2
+TuPy-E,em cadeira de rodas,Discurso Social,não ódio,1
+TuPy-E,retardado,Só E (xingamento),ódio,73
+TuPy-E,retardado,Só E (xingamento),não ódio,71
+TuPy-E,mongol,Só E (xingamento),não ódio,14
+TuPy-E,mongol,Só E (xingamento),ódio,12

@@ -1,0 +1,15 @@
+corpus,BERTimbau toxic,ToxiGuardrail-PT,BERTweet-PT
+HateBR,"não visto, salvo 3 texto(s) coincidente(s) (0.0%)","não visto, salvo 1 texto(s) coincidente(s) (0.0%)",não verificado (dados de treino fechados)
+ToLD-Br treino,"não visto, salvo 333 texto(s) coincidente(s) (2.0%)","visto (11774 de 16800 textos, 70%)",não verificado (dados de treino fechados)
+ToLD-Br validação,"não visto, salvo 40 texto(s) coincidente(s) (1.9%)","visto (1459 de 2100 textos, 69%)",não verificado (dados de treino fechados)
+ToLD-Br teste,"não visto, salvo 41 texto(s) coincidente(s) (2.0%)","não visto, salvo 53 texto(s) coincidente(s) (2.5%)",não verificado (dados de treino fechados)
+HateCheck-PT,não visto (0 textos coincidentes),não visto (0 textos coincidentes),não verificado (dados de treino fechados)
+ToxSyn-PT treino,não visto (0 textos coincidentes),não visto (0 textos coincidentes),não verificado (dados de treino fechados)
+ToxSyn-PT teste,não visto (0 textos coincidentes),não visto (0 textos coincidentes),não verificado (dados de treino fechados)
+OLID-BR,"visto (é o dado de treino, segundo a ficha)","parcialmente visto (344 de 6952 textos, 5%)",não verificado (dados de treino fechados)
+harmful-text (PT),"não visto, salvo 359 texto(s) coincidente(s) (0.6%)","visto (é o dado de treino, segundo a ficha)",não verificado (dados de treino fechados)
+TuPy-E (fortuna et al),"não visto, salvo 50 texto(s) coincidente(s) (0.9%)","visto (3595 de 5668 textos, 63%)",não verificado (dados de treino fechados)
+TuPy-E (leite et al),"não visto, salvo 414 texto(s) coincidente(s) (2.0%)","visto (13286 de 21000 textos, 63%)",não verificado (dados de treino fechados)
+TuPy-E (oliveira et al),"não visto, salvo 6 texto(s) coincidente(s) (0.1%)","não visto, salvo 47 texto(s) coincidente(s) (0.5%)",não verificado (dados de treino fechados)
+TuPy-E (vargas et al),"não visto, salvo 65 texto(s) coincidente(s) (0.9%)","não visto, salvo 97 texto(s) coincidente(s) (1.4%)",não verificado (dados de treino fechados)
+TweetSentBR (pysentimiento/pt_sentiment),não verificado (textos indisponíveis),não verificado (textos indisponíveis),"visto (é o dado de treino, segundo o código do pysentimiento)"
