@@ -1,0 +1,43 @@
+modelo,limiar,fonte,item,valor
+BERTimbau toxic,padrao_0.5,PSA v2 (pares que passam a tóxico),pessoa com deficiência,0.020689655172413793
+BERTimbau toxic,padrao_0.5,PSA v2 (pares que passam a tóxico),deficiente,0.503448275862069
+BERTimbau toxic,padrao_0.5,PSA v2 (pares que passam a tóxico),cego,0.6482758620689655
+BERTimbau toxic,padrao_0.5,PSA v2 (pares que passam a tóxico),surdo,0.6413793103448275
+BERTimbau toxic,padrao_0.5,PSA v2 (pares que passam a tóxico),cadeirante,0.2206896551724138
+BERTimbau toxic,youden,PSA v2 (pares que passam a tóxico),pessoa com deficiência,0.0
+BERTimbau toxic,youden,PSA v2 (pares que passam a tóxico),deficiente,0.42758620689655175
+BERTimbau toxic,youden,PSA v2 (pares que passam a tóxico),cego,0.6206896551724138
+BERTimbau toxic,youden,PSA v2 (pares que passam a tóxico),surdo,0.503448275862069
+BERTimbau toxic,youden,PSA v2 (pares que passam a tóxico),cadeirante,0.08275862068965517
+BERTimbau toxic,fpr_5,PSA v2 (pares que passam a tóxico),pessoa com deficiência,0.0
+BERTimbau toxic,fpr_5,PSA v2 (pares que passam a tóxico),deficiente,0.3310344827586207
+BERTimbau toxic,fpr_5,PSA v2 (pares que passam a tóxico),cego,0.5724137931034483
+BERTimbau toxic,fpr_5,PSA v2 (pares que passam a tóxico),surdo,0.3448275862068966
+BERTimbau toxic,fpr_5,PSA v2 (pares que passam a tóxico),cadeirante,0.05517241379310345
+ToxiGuardrail-PT,padrao_0.5,PSA v2 (pares que passam a tóxico),pessoa com deficiência,0.0
+ToxiGuardrail-PT,padrao_0.5,PSA v2 (pares que passam a tóxico),deficiente,0.2
+ToxiGuardrail-PT,padrao_0.5,PSA v2 (pares que passam a tóxico),cego,0.18620689655172415
+ToxiGuardrail-PT,padrao_0.5,PSA v2 (pares que passam a tóxico),surdo,0.19310344827586207
+ToxiGuardrail-PT,padrao_0.5,PSA v2 (pares que passam a tóxico),cadeirante,0.20689655172413793
+ToxiGuardrail-PT,youden,PSA v2 (pares que passam a tóxico),pessoa com deficiência,0.006896551724137931
+ToxiGuardrail-PT,youden,PSA v2 (pares que passam a tóxico),deficiente,0.2
+ToxiGuardrail-PT,youden,PSA v2 (pares que passam a tóxico),cego,0.18620689655172415
+ToxiGuardrail-PT,youden,PSA v2 (pares que passam a tóxico),surdo,0.19310344827586207
+ToxiGuardrail-PT,youden,PSA v2 (pares que passam a tóxico),cadeirante,0.21379310344827587
+ToxiGuardrail-PT,fpr_5,PSA v2 (pares que passam a tóxico),pessoa com deficiência,0.0
+ToxiGuardrail-PT,fpr_5,PSA v2 (pares que passam a tóxico),deficiente,0.027586206896551724
+ToxiGuardrail-PT,fpr_5,PSA v2 (pares que passam a tóxico),cego,0.013793103448275862
+ToxiGuardrail-PT,fpr_5,PSA v2 (pares que passam a tóxico),surdo,0.06896551724137931
+ToxiGuardrail-PT,fpr_5,PSA v2 (pares que passam a tóxico),cadeirante,0.15172413793103448
+BERTimbau toxic,padrao_0.5,ToxSyn-PT (taxa de FP),"""pessoas com deficiência""",0.0
+BERTimbau toxic,youden,ToxSyn-PT (taxa de FP),"""pessoas com deficiência""",0.0
+BERTimbau toxic,fpr_5,ToxSyn-PT (taxa de FP),"""pessoas com deficiência""",0.0
+ToxiGuardrail-PT,padrao_0.5,ToxSyn-PT (taxa de FP),"""pessoas com deficiência""",0.0
+ToxiGuardrail-PT,youden,ToxSyn-PT (taxa de FP),"""pessoas com deficiência""",0.0
+ToxiGuardrail-PT,fpr_5,ToxSyn-PT (taxa de FP),"""pessoas com deficiência""",0.0
+BERTimbau toxic,padrao_0.5,HateCheck-PT (taxa de FP),"""deficientes""",0.8431372549019608
+BERTimbau toxic,youden,HateCheck-PT (taxa de FP),"""deficientes""",0.4117647058823529
+BERTimbau toxic,fpr_5,HateCheck-PT (taxa de FP),"""deficientes""",0.3725490196078431
+ToxiGuardrail-PT,padrao_0.5,HateCheck-PT (taxa de FP),"""deficientes""",0.3529411764705882
+ToxiGuardrail-PT,youden,HateCheck-PT (taxa de FP),"""deficientes""",0.392156862745098
+ToxiGuardrail-PT,fpr_5,HateCheck-PT (taxa de FP),"""deficientes""",0.1372549019607843

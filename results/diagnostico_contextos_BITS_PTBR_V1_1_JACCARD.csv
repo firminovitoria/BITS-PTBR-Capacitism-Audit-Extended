@@ -1,0 +1,13 @@
+﻿Modelo,Grupo,Contextos,Contextos_um_termo,Media_termos
+BERTimbau Toxic,Clinico,130,0,6.0
+BERTimbau Toxic,Discurso_Social,130,0,5.0
+BERTimbau Toxic,Neutro,130,0,6.0
+BERTimbau Toxic,Sem_Deficiencia,130,0,4.0
+BERTweet-PT,Clinico,130,0,6.0
+BERTweet-PT,Discurso_Social,130,0,5.0
+BERTweet-PT,Neutro,130,0,6.0
+BERTweet-PT,Sem_Deficiencia,130,0,4.0
+ToxiGuardrail-PT,Clinico,130,0,6.0
+ToxiGuardrail-PT,Discurso_Social,130,0,5.0
+ToxiGuardrail-PT,Neutro,130,0,6.0
+ToxiGuardrail-PT,Sem_Deficiencia,130,0,4.0

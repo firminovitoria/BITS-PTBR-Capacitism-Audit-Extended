@@ -1,0 +1,9 @@
+﻿Grupo_deficiencia,Grupo_comparacao,Contextos_deficiencia,Contextos_comparacao,Contextos_compartilhados,Percentual_cobertura_deficiencia
+Clinico,Sem_Deficiencia,145,145,145,100.0
+Clinico,Contraste_Idade,145,118,118,81.37931034482759
+Clinico,Contraste_Nacionalidade,145,145,145,100.0
+Clinico,Contraste_Religiao,145,145,145,100.0
+Discurso_Social,Sem_Deficiencia,145,145,145,100.0
+Discurso_Social,Contraste_Idade,145,118,118,81.37931034482759
+Discurso_Social,Contraste_Nacionalidade,145,145,145,100.0
+Discurso_Social,Contraste_Religiao,145,145,145,100.0

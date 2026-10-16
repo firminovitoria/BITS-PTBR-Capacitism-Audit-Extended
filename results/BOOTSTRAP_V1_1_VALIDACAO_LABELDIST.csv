@@ -1,0 +1,13 @@
+﻿Modelo,Grupo,LabelDist_direto,LabelDist_bootstrap,Confere
+BERTweet-PT,Clinico,0.2945736434108527,0.2945736434108527,True
+BERTimbau Toxic,Clinico,0.1887905604719764,0.1887905604719764,True
+ToxiGuardrail-PT,Clinico,1.0,1.0,True
+BERTweet-PT,Discurso_Social,0.24423963133640558,0.24423963133640558,True
+BERTimbau Toxic,Discurso_Social,0.4942263279445728,0.4942263279445728,True
+ToxiGuardrail-PT,Discurso_Social,1.0,1.0,True
+BERTweet-PT,Neutro,0.305439330543933,0.305439330543933,True
+BERTimbau Toxic,Neutro,0.26885245901639343,0.26885245901639343,True
+ToxiGuardrail-PT,Neutro,1.0,1.0,True
+BERTweet-PT,Sem_Deficiencia,0.31137724550898205,0.31137724550898205,True
+BERTimbau Toxic,Sem_Deficiencia,0.39860139860139865,0.39860139860139865,True
+ToxiGuardrail-PT,Sem_Deficiencia,1.0,1.0,True

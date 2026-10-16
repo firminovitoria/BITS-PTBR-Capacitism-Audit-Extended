@@ -1,0 +1,181 @@
+modelo,limiar,recorte,valor,controles,toxicos,taxa
+BERTimbau toxic,padrao_0.5,emocao_categoria,felicidade,15,1,0.06666666666666667
+BERTimbau toxic,padrao_0.5,emocao_categoria,medo,15,7,0.4666666666666667
+BERTimbau toxic,padrao_0.5,emocao_categoria,neutro,25,1,0.04
+BERTimbau toxic,padrao_0.5,emocao_categoria,nojo,15,14,0.9333333333333333
+BERTimbau toxic,padrao_0.5,emocao_categoria,raiva,15,13,0.8666666666666667
+BERTimbau toxic,padrao_0.5,emocao_categoria,sem_emocao,15,0,0.0
+BERTimbau toxic,padrao_0.5,emocao_categoria,surpresa_neg,15,5,0.3333333333333333
+BERTimbau toxic,padrao_0.5,emocao_categoria,surpresa_pos,15,1,0.06666666666666667
+BERTimbau toxic,padrao_0.5,emocao_categoria,tristeza,15,6,0.4
+BERTimbau toxic,padrao_0.5,Template,T1,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T10,26,13,0.5
+BERTimbau toxic,padrao_0.5,Template,T11,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T12,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T13,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T14,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T15,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T16,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T17,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T18,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T19,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T2,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T20,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T3,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T4,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T5,1,0,0.0
+BERTimbau toxic,padrao_0.5,Template,T6,26,15,0.5769230769230769
+BERTimbau toxic,padrao_0.5,Template,T7,26,8,0.3076923076923077
+BERTimbau toxic,padrao_0.5,Template,T8,26,5,0.19230769230769232
+BERTimbau toxic,padrao_0.5,Template,T9,26,7,0.2692307692307692
+BERTimbau toxic,padrao_0.5,total,todos,145,48,0.3310344827586207
+BERTimbau toxic,youden,emocao_categoria,felicidade,15,0,0.0
+BERTimbau toxic,youden,emocao_categoria,medo,15,1,0.06666666666666667
+BERTimbau toxic,youden,emocao_categoria,neutro,25,0,0.0
+BERTimbau toxic,youden,emocao_categoria,nojo,15,5,0.3333333333333333
+BERTimbau toxic,youden,emocao_categoria,raiva,15,2,0.13333333333333333
+BERTimbau toxic,youden,emocao_categoria,sem_emocao,15,0,0.0
+BERTimbau toxic,youden,emocao_categoria,surpresa_neg,15,2,0.13333333333333333
+BERTimbau toxic,youden,emocao_categoria,surpresa_pos,15,0,0.0
+BERTimbau toxic,youden,emocao_categoria,tristeza,15,2,0.13333333333333333
+BERTimbau toxic,youden,Template,T1,1,0,0.0
+BERTimbau toxic,youden,Template,T10,26,9,0.34615384615384615
+BERTimbau toxic,youden,Template,T11,1,0,0.0
+BERTimbau toxic,youden,Template,T12,1,0,0.0
+BERTimbau toxic,youden,Template,T13,1,0,0.0
+BERTimbau toxic,youden,Template,T14,1,0,0.0
+BERTimbau toxic,youden,Template,T15,1,0,0.0
+BERTimbau toxic,youden,Template,T16,1,0,0.0
+BERTimbau toxic,youden,Template,T17,1,0,0.0
+BERTimbau toxic,youden,Template,T18,1,0,0.0
+BERTimbau toxic,youden,Template,T19,1,0,0.0
+BERTimbau toxic,youden,Template,T2,1,0,0.0
+BERTimbau toxic,youden,Template,T20,1,0,0.0
+BERTimbau toxic,youden,Template,T3,1,0,0.0
+BERTimbau toxic,youden,Template,T4,1,0,0.0
+BERTimbau toxic,youden,Template,T5,1,0,0.0
+BERTimbau toxic,youden,Template,T6,26,0,0.0
+BERTimbau toxic,youden,Template,T7,26,1,0.038461538461538464
+BERTimbau toxic,youden,Template,T8,26,1,0.038461538461538464
+BERTimbau toxic,youden,Template,T9,26,1,0.038461538461538464
+BERTimbau toxic,youden,total,todos,145,12,0.08275862068965517
+BERTimbau toxic,fpr_5,emocao_categoria,felicidade,15,0,0.0
+BERTimbau toxic,fpr_5,emocao_categoria,medo,15,0,0.0
+BERTimbau toxic,fpr_5,emocao_categoria,neutro,25,0,0.0
+BERTimbau toxic,fpr_5,emocao_categoria,nojo,15,2,0.13333333333333333
+BERTimbau toxic,fpr_5,emocao_categoria,raiva,15,2,0.13333333333333333
+BERTimbau toxic,fpr_5,emocao_categoria,sem_emocao,15,0,0.0
+BERTimbau toxic,fpr_5,emocao_categoria,surpresa_neg,15,0,0.0
+BERTimbau toxic,fpr_5,emocao_categoria,surpresa_pos,15,0,0.0
+BERTimbau toxic,fpr_5,emocao_categoria,tristeza,15,1,0.06666666666666667
+BERTimbau toxic,fpr_5,Template,T1,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T10,26,5,0.19230769230769232
+BERTimbau toxic,fpr_5,Template,T11,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T12,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T13,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T14,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T15,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T16,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T17,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T18,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T19,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T2,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T20,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T3,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T4,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T5,1,0,0.0
+BERTimbau toxic,fpr_5,Template,T6,26,0,0.0
+BERTimbau toxic,fpr_5,Template,T7,26,0,0.0
+BERTimbau toxic,fpr_5,Template,T8,26,0,0.0
+BERTimbau toxic,fpr_5,Template,T9,26,0,0.0
+BERTimbau toxic,fpr_5,total,todos,145,5,0.034482758620689655
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,felicidade,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,medo,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,neutro,25,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,nojo,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,raiva,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,sem_emocao,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,surpresa_neg,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,surpresa_pos,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,emocao_categoria,tristeza,15,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T1,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T10,26,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T11,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T12,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T13,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T14,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T15,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T16,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T17,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T18,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T19,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T2,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T20,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T3,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T4,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T5,1,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T6,26,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T7,26,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T8,26,0,0.0
+ToxiGuardrail-PT,padrao_0.5,Template,T9,26,0,0.0
+ToxiGuardrail-PT,padrao_0.5,total,todos,145,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,felicidade,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,medo,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,neutro,25,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,nojo,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,raiva,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,sem_emocao,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,surpresa_neg,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,surpresa_pos,15,0,0.0
+ToxiGuardrail-PT,youden,emocao_categoria,tristeza,15,0,0.0
+ToxiGuardrail-PT,youden,Template,T1,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T10,26,0,0.0
+ToxiGuardrail-PT,youden,Template,T11,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T12,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T13,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T14,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T15,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T16,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T17,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T18,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T19,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T2,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T20,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T3,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T4,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T5,1,0,0.0
+ToxiGuardrail-PT,youden,Template,T6,26,0,0.0
+ToxiGuardrail-PT,youden,Template,T7,26,0,0.0
+ToxiGuardrail-PT,youden,Template,T8,26,0,0.0
+ToxiGuardrail-PT,youden,Template,T9,26,0,0.0
+ToxiGuardrail-PT,youden,total,todos,145,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,felicidade,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,medo,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,neutro,25,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,nojo,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,raiva,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,sem_emocao,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,surpresa_neg,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,surpresa_pos,15,0,0.0
+ToxiGuardrail-PT,fpr_5,emocao_categoria,tristeza,15,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T1,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T10,26,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T11,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T12,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T13,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T14,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T15,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T16,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T17,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T18,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T19,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T2,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T20,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T3,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T4,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T5,1,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T6,26,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T7,26,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T8,26,0,0.0
+ToxiGuardrail-PT,fpr_5,Template,T9,26,0,0.0
+ToxiGuardrail-PT,fpr_5,total,todos,145,0,0.0
