@@ -1,22 +1,22 @@
-# Licença dos dados e resultados
+# Data and results license
 
-O corpus BITS-PTBR (`data_bits/`), a lista de termos (`lista_termos_congelada.csv`) e os resultados (`results/`) estão sob a licença **Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)**.
+The BITS-PTBR corpus (`data_bits/`), the term list (`lista_termos_congelada.csv`), and the results (`results/`) are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
-Texto completo: https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt
+Full text: https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
 
-Você pode copiar, redistribuir e adaptar o material, desde que atribua o crédito aos autores, indique as alterações feitas e não o use para fins comerciais.
+You may copy, redistribute, and adapt the material, provided that you give appropriate credit to the authors, indicate the changes made, and do not use it for commercial purposes.
 
-## Exceções: textos de terceiros
+## Exceptions: third-party texts
 
-Alguns arquivos de `results/` contêm textos de corpora externos. Esses textos continuam sob a licença do corpus de origem:
+Some files in `results/` contain texts from external corpora. These texts remain under the license of the source corpus:
 
-| Corpus | Licença | Arquivos |
+| Corpus | License | Files |
 |---|---|---|
-| HateBR | CC BY-NC 4.0 | `hatebr_scores.csv`, `e_casos_hatebr_nao_ofensivos.csv`, linhas do HateBR em `e_classificacao_cego_surdo.csv` |
-| ToLD-Br | CC BY-SA 4.0 | `told_br_test_scores.csv`, `told_br_validacao_vistos_scores_tox2.csv` (esses dois arquivos são distribuídos sob CC BY-SA 4.0) |
-| OLID-BR | CC BY 4.0 | `olid_br_scores_tox1.csv`, linhas do OLID-BR em `e_classificacao_cego_surdo.csv` |
+| HateBR | CC BY-NC 4.0 | `hatebr_scores.csv`, `e_casos_hatebr_nao_ofensivos.csv`, HateBR rows of `e_classificacao_cego_surdo.csv` |
+| ToLD-Br | CC BY-SA 4.0 | `told_br_test_scores.csv`, `told_br_validacao_vistos_scores_tox2.csv` (these two files are distributed under CC BY-SA 4.0) |
+| OLID-BR | CC BY 4.0 | `olid_br_scores_tox1.csv`, OLID-BR rows of `e_classificacao_cego_surdo.csv` |
 | HateCheck-PT | CC BY 4.0 | `d_hatecheck_scores.csv` |
 
-O ToxSyn-PT não é redistribuído: `d_toxsyn_nao_toxicas_scores.csv` traz só identificadores, metadados e scores.
+ToxSyn-PT is not redistributed, because its license is not stated by its authors: `d_toxsyn_nao_toxicas_scores.csv` contains only identifiers, metadata, and scores, without the sentences.
 
-O código (`notebooks/`) está sob a licença MIT (arquivo `LICENSE`).
+The code (`notebooks/`) is licensed under the MIT License (file `LICENSE`).
